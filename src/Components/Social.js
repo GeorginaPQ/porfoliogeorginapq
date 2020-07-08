@@ -39,7 +39,7 @@ const CardContainer = styled.div`
 `
 const Social = () => {
     return (
-        <div className="p-2">
+        <div className="p-5">
             <CardContainer>
                 <Card>
                     <img className="w-100"src={geo}></img>
@@ -59,7 +59,7 @@ const Social = () => {
             <div className="p-3 mt-1 d-flex justify-content-center align-items-center" id="social">
                 <Icons href="https://github.com/GeorginaPQ "><FaGithub/></Icons>
                 <Icons href="https://www.linkedin.com/in/georgina-p%C3%A9rez-quintana/"><FaLinkedin/></Icons>
-                <Icons href="https://www.linkedin.com/in/georgina-p%C3%A9rez-quintana/"><FaTwitter/></Icons>
+                <Icons href="https://twitter.com/Claudia60742746"><FaTwitter/></Icons>
             </div>
             <h6 className="text-secondary p-3 mt-1 d-flex justify-content-center align-items-center flex-column flex-sm-row text-align-center"> 
                 <span>geoPQ © All rights reserved. </span><span>Made with ❤ and React</span>

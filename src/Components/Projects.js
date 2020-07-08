@@ -82,7 +82,7 @@ const  Button2 = styled.a`
 
 const Projects = () => {
     return (
-            <>
+            <div id="projects">
             <Project className="p-3 p-sm-4 p-lg-5 mb-5 container align-items-center flex-column flex-md-row">
                 <div className="col col-sm-6 pl-2">
                     <Img className="w-100" src={UrbanCat}></Img>
@@ -198,7 +198,7 @@ const Projects = () => {
                     </div>
                 </div>
             </Project>
-            </>
+            </div>
     )
 }
 export default Projects;

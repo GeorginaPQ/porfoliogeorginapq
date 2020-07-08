@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/portfolioGeorginaPQ/static/js/main.2ed63a87.chunk.js",
+    "main.js.map": "/portfolioGeorginaPQ/static/js/main.2ed63a87.chunk.js.map",
+    "runtime-main.js": "/portfolioGeorginaPQ/static/js/runtime-main.05688464.js",
+    "runtime-main.js.map": "/portfolioGeorginaPQ/static/js/runtime-main.05688464.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/portfolioGeorginaPQ/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.eddab126.chunk.js": "/portfolioGeorginaPQ/static/js/2.eddab126.chunk.js",
+    "static/js/2.eddab126.chunk.js.map": "/portfolioGeorginaPQ/static/js/2.eddab126.chunk.js.map",
+    "index.html": "/portfolioGeorginaPQ/index.html",
+    "precache-manifest.739c199f441259a65297639b60436d02.js": "/portfolioGeorginaPQ/precache-manifest.739c199f441259a65297639b60436d02.js",
+    "service-worker.js": "/portfolioGeorginaPQ/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/portfolioGeorginaPQ/static/css/2.829c9cb5.chunk.css.map",
+    "static/js/2.eddab126.chunk.js.LICENSE.txt": "/portfolioGeorginaPQ/static/js/2.eddab126.chunk.js.LICENSE.txt",
+    "static/media/SocialNetwork.png": "/portfolioGeorginaPQ/static/media/SocialNetwork.c93f86cd.png",
+    "static/media/UrbanCat.png": "/portfolioGeorginaPQ/static/media/UrbanCat.cde60073.png",
+    "static/media/celebration.png": "/portfolioGeorginaPQ/static/media/celebration.24a057c7.png",
+    "static/media/geo.png": "/portfolioGeorginaPQ/static/media/geo.d40a785e.png",
+    "static/media/logowhite.svg": "/portfolioGeorginaPQ/static/media/logowhite.d5ae6be0.svg",
+    "static/media/movies.png": "/portfolioGeorginaPQ/static/media/movies.cdd8ed0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05688464.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.eddab126.chunk.js",
+    "static/js/main.2ed63a87.chunk.js"
+  ]
+}
